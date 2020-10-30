@@ -10,11 +10,10 @@
    
   } 
   .cover{
-  background-size:cover; 
-  background-color:#000080;
-  height:80vh;
-  width:85vw;
-  opacity:0.3;
+  background-size: cover;
+  height: 80vh;
+  width: 85vw;
+  opacity: 0.1;
 }
 body{ 
   padding-top:6vh;
