@@ -12,8 +12,8 @@
   .cover{ 
       background :url("./cricket.jpeg");
       background-size:cover; 
-      height:160vh;
-      width:80vw;
+      height:140vh;
+      width:100vw;
   }
   .bottom_left{
     position:relative;
