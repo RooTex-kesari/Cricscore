@@ -9,7 +9,7 @@ pivot_menu .pivot_button, .pivot_menu .pivot_title{
   .cover{ 
       background :url("./cricket.jpeg");
       background-size:cover; 
-      height:110vh;
+      height:160vh;
       width:110vw;
   }
   .bottom_left{
