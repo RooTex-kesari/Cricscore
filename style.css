@@ -9,12 +9,18 @@
     background-color:#483D8B
    
   } 
-  .cover
-  {
-    body
-    { background-image: url("cricket.jpeg");
-    }
-  }
+  .cover{
+  background-size:cover; 
+  background-color:#000080;
+  height:80vh;
+  width:85vw;
+  opacity:0.3;
+}
+body{ 
+  padding-top:6vh;
+  background-image: url("./cricket.jpeg");
+  background-size: cover;
+}
   .bottom_left{
     position:relative;
     top:180px;
