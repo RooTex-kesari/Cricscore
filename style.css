@@ -11,7 +11,7 @@
   } 
   .cover{ 
       background :url("./cricket.jpeg");
-      background-size:cover;
+      background-size:auto;
       height:110vh;
       width:110vw;
   }
