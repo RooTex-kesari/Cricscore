@@ -6,7 +6,7 @@ pivot_menu .pivot_button, .pivot_menu .pivot_title{
     background-color: #570907;
   } 
   .cover{ 
-      background :url("./Cricket.jpeg");
+      background :url("./cricket.jpeg");
       background-size:cover; 
       height:110vh;
       width:110vw;
