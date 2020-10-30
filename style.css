@@ -11,7 +11,7 @@
   } 
   .body
   {
-    background-image: url("cricket.jpeg");
+    background-image: url("./cricket.jpeg");
   }
   .bottom_left{
     position:relative;
