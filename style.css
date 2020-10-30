@@ -11,11 +11,9 @@
   } 
   .cover
   {
-    background-image: url("cricket.jpeg");
-    background-repeat: no-repeat;
-    background-size: auto;
-
-    
+    body
+    { background-image: url("cricket.jpeg");
+    }
   }
   .bottom_left{
     position:relative;
